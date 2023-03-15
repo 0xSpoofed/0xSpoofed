@@ -10,8 +10,8 @@
 <br>
 <p align="center">
 <a href="https://github.com/0xSpoofed">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crashixx&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=crashixx&theme=react&include_all_commits&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xSpoofed&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=0xSpoofed&theme=react&include_all_commits&hide_border=false"/>
 </a>
   
 </p>
