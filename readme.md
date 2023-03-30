@@ -1,11 +1,3 @@
-### <p align="center">☕ &nbsp;Buy me a coffee</p>
-<br>
-<p align="center"><strong>
-  Ethereum: 0xcd007ad5Da5110Edde41432C8a96D4F88C5f448f<br>
-</strong></p>
-
-
------
 ### <p align="center">⚙️ &nbsp;Github Stats</p>
 <br>
 <p align="center">
